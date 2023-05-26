@@ -24,5 +24,5 @@ The following Power BI features were incorporated
 - DAX and Calculated Measure
 - Page Navigation and Button
 
-Modelling
-Autimatic derived relationships were used. Data cleaning done to remove unwanted columns, duplicates
+**Modelling**
+Automatic derived relationships were used. Data cleaning done to remove unwanted columns, duplicates
