@@ -1,6 +1,7 @@
 # Project1
 # Analysis of Production Performance 
 ![](production_overview.png)
+Total Units of items Produced is 2961
 ---
 ## Introduction
 This is a Power Bi Project of the Production Analysis of a **Manufacturing Company**
@@ -29,7 +30,7 @@ Automatic derived relationships were used. Data cleaning done to remove unwanted
 One Dimemsion table and Five Fact tables detected. One to many relationships
 ![](data_model.png)
 
-# # Visualization
+## Visualization
 The report comprises 5 pages:
 1. Overview
 2. Production By Product
@@ -38,3 +39,20 @@ The report comprises 5 pages:
 5. Production By Date
 
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/1a8e3174-c32d-4335-8106-e1f66041eeb4/ReportSection1ae8ff6bbf1920352db2?experience=power-bi)
+
+## Production By Product
+![](production_by_product.png)
+The items with Produc ID 758 and 766 were the most produced at 116 units
+
+## Production By Work Order
+![](production_by_work_order.png)
+Average number of days to make modification to the units was at 10 days
+
+## Production By Work Order Routing
+![](production_by_work_order_routing.png)
+On the average, there was 5.65 deays to the scheduled end date
+
+## Production By Date
+![](production_by_date)
+The Highest aseembled quanity occured around Sep 2010
+
