@@ -28,3 +28,13 @@ The following Power BI features were incorporated
 Automatic derived relationships were used. Data cleaning done to remove unwanted columns, duplicates
 One Dimemsion table and Five Fact tables detected. One to many relationships
 ![](data_model.png)
+
+# # Visualization
+The report comprises 5 pages:
+1. Overview
+2. Production By Product
+3. Production B Work Order
+4. Production By Work Order Routing
+5. Production By Date
+
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/1a8e3174-c32d-4335-8106-e1f66041eeb4/ReportSection1ae8ff6bbf1920352db2?experience=power-bi)
