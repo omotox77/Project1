@@ -26,3 +26,5 @@ The following Power BI features were incorporated
 
 **Modelling**
 Automatic derived relationships were used. Data cleaning done to remove unwanted columns, duplicates
+One Dimemsion table and Five Fact tables detected. One to many relationships
+![](data_model.png)
