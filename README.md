@@ -29,6 +29,7 @@ The following Power BI features were incorporated
 Automatic derived relationships were used. Data cleaning done to remove unwanted columns, duplicates
 One Dimemsion table and Five Fact tables detected. One to many relationships
 ![](data_model.png)
+**The Model is a star schemma**
 
 ## Visualization
 The report comprises 5 pages:
@@ -53,6 +54,6 @@ Average number of days to make modification to the units was at 10 days
 On the average, there was 5.65 deays to the scheduled end date
 
 ## Production By Date
-![](production_by_date)
+![](production_by_date.png)
 The Highest aseembled quanity occured around Sep 2010
 
