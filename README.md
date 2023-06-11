@@ -25,9 +25,12 @@ The following Power BI features were incorporated
 - DAX and Calculated Measure
 - Page Navigation and Button
 
+**Get data**
+Data was requested using server method via the local host computer
+![](data_model.png)
+**The Model is a star schemma**
 **Modelling**
-Automatic derived relationships were used. Data cleaning done to remove unwanted columns, duplicates
-One Dimemsion table and Five Fact tables detected. One to many relationships
+D
 ![](data_model.png)
 **The Model is a star schemma**
 
